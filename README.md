@@ -1,4 +1,4 @@
-# My Awesome Project
+# My Android TODOLIST APP 
 
 ![TODOLIST](https://github.com/JOEEEgg/Android_TODOAPP/assets/72720532/12c9d8fb-f9d2-4ab7-a407-eac4e3bb4759)
 
