@@ -2,6 +2,7 @@
 
 ![TODOLIST](https://github.com/JOEEEgg/Android_TODOAPP/assets/72720532/12c9d8fb-f9d2-4ab7-a407-eac4e3bb4759)
 
+
 ## 프로젝트 개요
 
 📘Android TodoList App 만들기 (개인 프로젝트)
