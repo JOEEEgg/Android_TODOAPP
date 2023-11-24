@@ -1,20 +1,18 @@
 # My Awesome Project
 
-![Project Logo](link_to_your_logo.png)
+![Project Logo](app/res/drawble/TODOAPP.png)
 
-## Overview
+## 프로젝트 개요
 
-간단한 프로젝트 개요 설명
+📘Android TodoList App 만들기 (개인 프로젝트)
 
-## Features
+## 기능 설명
 
-- Feature 1
-- Feature 2
-- Feature 3
+- 할 일 등록
+- 할 일 수정
+- 할 일 삭제
+- 완료 한 일 체크
+- 파이어베이스 연동하여 회원 관리
 
-## Installation
 
-프로젝트를 사용하기 위한 설치 방법
 
-```bash
-npm install my-awesome-project
