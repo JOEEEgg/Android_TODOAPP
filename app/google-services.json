@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "140108197146",
+    "firebase_url": "https://todoapp-73b22-default-rtdb.firebaseio.com",
+    "project_id": "todoapp-73b22",
+    "storage_bucket": "todoapp-73b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140108197146:android:c1dcf1ddaeb1c7d8d5d0a3",
+        "android_client_info": {
+          "package_name": "org.techtown.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5CmV1fv-38P02xl3Iv-TgwS5Z6P_0Mfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
