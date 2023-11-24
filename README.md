@@ -1,6 +1,6 @@
 # My Awesome Project
 
-![Project Logo][(app/res/drawble/TODOAPP.png)](https://github.com/JOEEEgg/Android_TODOAPP/issues/1#issue-2008985008)
+!https://github.com/JOEEEgg/Android_TODOAPP/issues/1#issue-2008985008
 
 ## 프로젝트 개요
 
