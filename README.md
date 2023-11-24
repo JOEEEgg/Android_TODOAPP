@@ -1,6 +1,6 @@
 # My Awesome Project
 
-!https://github.com/JOEEEgg/Android_TODOAPP/issues/1#issue-2008985008
+![TODOLIST](https://github.com/JOEEEgg/Android_TODOAPP/assets/72720532/12c9d8fb-f9d2-4ab7-a407-eac4e3bb4759)
 
 ## 프로젝트 개요
 
